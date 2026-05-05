@@ -1,6 +1,6 @@
 # Java Quiz Game - OOP Project
 
-![Quiz Game Screenshot](Screenshot 2026-05-05 224613.png)
+![Quiz Game Screenshot](/Screenshot%202026-05-05%20224613.png)
 
 A comprehensive Java Swing-based quiz game application focused on Java programming fundamentals. This project demonstrates key Object-Oriented Programming (OOP) concepts including encapsulation, inheritance, polymorphism, and GUI development.
 
