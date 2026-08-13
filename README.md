@@ -242,6 +242,12 @@ This project was created as an academic OOP project demonstrating:
 - Data management and encapsulation
 - Event-driven programming
 
+## Team Member
+- Cabato, Aries
+- Kalnain, Regan
+- Tuason, Jared
+- Yabo, Christopher 
+
 ## License
 
 This project is part of an academic assignment and is provided for educational purposes.
